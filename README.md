@@ -1,3 +1,3 @@
 By: Francisco Alvarez
 
-Donde except icons.
+Donde with icons.
